@@ -1,0 +1,11 @@
+.doctors {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.doctors .MuiCard-root {
+    margin: 0  10px 20px 10px;
+}
